@@ -175,3 +175,4 @@ export default function Hero({ data = defaultHeroData }) {
     </section>
   );
 }
+// test sync
