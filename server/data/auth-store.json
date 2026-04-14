@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": "ecd3fd95-fac9-4050-915b-299a54955c10",
+      "fullName": "Quan Test",
+      "email": "quan.test@example.com",
+      "password": "123456",
+      "createdAt": "2026-04-13T21:33:58.210Z"
+    }
+  ],
+  "sessions": [
+    {
+      "token": "1b806bf91e8fabf8b4ab0c88ddcc8a246bf3bf2a92e630eb",
+      "userId": "ecd3fd95-fac9-4050-915b-299a54955c10",
+      "createdAt": "2026-04-13T21:33:58.213Z"
+    },
+    {
+      "token": "bf29aa5af4cc465e40f815b2d1a8d1d9c1a98bb83cb012fb",
+      "userId": "ecd3fd95-fac9-4050-915b-299a54955c10",
+      "createdAt": "2026-04-13T21:33:58.297Z"
+    },
+    {
+      "token": "0a7d95bf8bc8c6121cd542b9a63b1c3ab809f6b26ccd8a65",
+      "userId": "ecd3fd95-fac9-4050-915b-299a54955c10",
+      "createdAt": "2026-04-13T21:35:18.592Z"
+    },
+    {
+      "token": "9afa24cba98de2527df09750a94ba948132f7a0e937fa746",
+      "userId": "ecd3fd95-fac9-4050-915b-299a54955c10",
+      "createdAt": "2026-04-13T21:36:36.684Z"
+    }
+  ]
+}
